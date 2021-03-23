@@ -1,2 +1,2 @@
-# C-22
-we have moved on from game logic
+# p5.play-boilerplate
+Boiler plate for p5.play
